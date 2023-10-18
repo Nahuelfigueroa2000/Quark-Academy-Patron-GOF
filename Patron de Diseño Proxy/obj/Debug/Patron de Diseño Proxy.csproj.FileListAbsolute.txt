@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\bin\Debug\Patron de Diseño Proxy.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\bin\Debug\Patron de Diseño Proxy.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\bin\Debug\Patron de Diseño Proxy.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\obj\Debug\Patron de Diseño Proxy.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\obj\Debug\Patron de Diseño Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\obj\Debug\Patron de Diseño Proxy.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Proxy\obj\Debug\Patron de Diseño Proxy.pdb

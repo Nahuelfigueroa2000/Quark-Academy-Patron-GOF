@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\bin\Debug\Patron de Diseño ChainOfResponsability.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\bin\Debug\Patron de Diseño ChainOfResponsability.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\bin\Debug\Patron de Diseño ChainOfResponsability.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\obj\Debug\Patron de Diseño ChainOfResponsability.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\obj\Debug\Patron de Diseño ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\obj\Debug\Patron de Diseño ChainOfResponsability.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño ChainOfResponsability\obj\Debug\Patron de Diseño ChainOfResponsability.pdb

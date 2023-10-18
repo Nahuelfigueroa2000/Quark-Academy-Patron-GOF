@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\bin\Debug\Patron de Diseño Strategy.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\bin\Debug\Patron de Diseño Strategy.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\bin\Debug\Patron de Diseño Strategy.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\obj\Debug\Patron de Diseño Strategy.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\obj\Debug\Patron de Diseño Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\obj\Debug\Patron de Diseño Strategy.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Strategy\obj\Debug\Patron de Diseño Strategy.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\bin\Debug\Patron de Diseño Visitor.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\bin\Debug\Patron de Diseño Visitor.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\bin\Debug\Patron de Diseño Visitor.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\obj\Debug\Patron de Diseño Visitor.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\obj\Debug\Patron de Diseño Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\obj\Debug\Patron de Diseño Visitor.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Visitor\obj\Debug\Patron de Diseño Visitor.pdb

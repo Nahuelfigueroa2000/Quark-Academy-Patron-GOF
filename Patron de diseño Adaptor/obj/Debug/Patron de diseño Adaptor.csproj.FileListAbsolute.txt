@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\bin\Debug\Patron de diseño Adaptor.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\bin\Debug\Patron de diseño Adaptor.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\bin\Debug\Patron de diseño Adaptor.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\obj\Debug\Patron de diseño Adaptor.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\obj\Debug\Patron de diseño Adaptor.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\obj\Debug\Patron de diseño Adaptor.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Adaptor\obj\Debug\Patron de diseño Adaptor.pdb

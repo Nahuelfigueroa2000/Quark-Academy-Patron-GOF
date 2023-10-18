@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\bin\Debug\Patron de diseño Composite.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\bin\Debug\Patron de diseño Composite.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\bin\Debug\Patron de diseño Composite.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\obj\Debug\Patron de diseño Composite.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\obj\Debug\Patron de diseño Composite.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\obj\Debug\Patron de diseño Composite.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Composite\obj\Debug\Patron de diseño Composite.pdb

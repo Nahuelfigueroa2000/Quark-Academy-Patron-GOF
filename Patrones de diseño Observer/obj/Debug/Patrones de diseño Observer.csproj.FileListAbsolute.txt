@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\bin\Debug\Patrones de diseño Observer.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\bin\Debug\Patrones de diseño Observer.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\bin\Debug\Patrones de diseño Observer.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\obj\Debug\Patrones de diseño Observer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\obj\Debug\Patrones de diseño Observer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\obj\Debug\Patrones de diseño Observer.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patrones de diseño Observer\obj\Debug\Patrones de diseño Observer.pdb

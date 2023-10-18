@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\bin\Debug\Patron de diseño Builder.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\bin\Debug\Patron de diseño Builder.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\bin\Debug\Patron de diseño Builder.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\obj\Debug\Patron de diseño Builder.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\obj\Debug\Patron de diseño Builder.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\obj\Debug\Patron de diseño Builder.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Builder\obj\Debug\Patron de diseño Builder.pdb

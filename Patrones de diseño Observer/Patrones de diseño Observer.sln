@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patrones de diseño Observer", "Patrones de diseño Observer.csproj", "{AC209EA4-5BB1-44FE-B6A0-B8F2575B710B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC209EA4-5BB1-44FE-B6A0-B8F2575B710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC209EA4-5BB1-44FE-B6A0-B8F2575B710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC209EA4-5BB1-44FE-B6A0-B8F2575B710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC209EA4-5BB1-44FE-B6A0-B8F2575B710B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A94EAA9-CC07-4B06-BD3C-BD0FE0555C75}
+	EndGlobalSection
+EndGlobal

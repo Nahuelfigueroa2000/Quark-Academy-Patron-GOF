@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\bin\Debug\Patron de Diseño Interpreter.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\bin\Debug\Patron de Diseño Interpreter.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\bin\Debug\Patron de Diseño Interpreter.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\obj\Debug\Patron de Diseño Interpreter.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\obj\Debug\Patron de Diseño Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\obj\Debug\Patron de Diseño Interpreter.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Interpreter\obj\Debug\Patron de Diseño Interpreter.pdb

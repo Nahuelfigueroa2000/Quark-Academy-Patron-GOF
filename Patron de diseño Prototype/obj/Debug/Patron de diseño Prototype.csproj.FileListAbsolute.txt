@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\bin\Debug\Patron de diseño Prototype.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\bin\Debug\Patron de diseño Prototype.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\bin\Debug\Patron de diseño Prototype.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\obj\Debug\Patron de diseño Prototype.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\obj\Debug\Patron de diseño Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\obj\Debug\Patron de diseño Prototype.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Prototype\obj\Debug\Patron de diseño Prototype.pdb

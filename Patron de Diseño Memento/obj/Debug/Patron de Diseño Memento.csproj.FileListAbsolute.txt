@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\bin\Debug\Patron de Diseño Memento.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\bin\Debug\Patron de Diseño Memento.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\bin\Debug\Patron de Diseño Memento.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\obj\Debug\Patron de Diseño Memento.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\obj\Debug\Patron de Diseño Memento.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\obj\Debug\Patron de Diseño Memento.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Memento\obj\Debug\Patron de Diseño Memento.pdb

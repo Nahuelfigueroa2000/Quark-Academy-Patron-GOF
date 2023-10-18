@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\bin\Debug\Patron de Diseño Singleton.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\bin\Debug\Patron de Diseño Singleton.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\bin\Debug\Patron de Diseño Singleton.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\obj\Debug\Patron de Diseño Singleton.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\obj\Debug\Patron de Diseño Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\obj\Debug\Patron de Diseño Singleton.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Singleton\obj\Debug\Patron de Diseño Singleton.pdb

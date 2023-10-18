@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\bin\Debug\Patron de Diseño Iterator.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\bin\Debug\Patron de Diseño Iterator.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\bin\Debug\Patron de Diseño Iterator.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\obj\Debug\Patron de Diseño Iterator.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\obj\Debug\Patron de Diseño Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\obj\Debug\Patron de Diseño Iterator.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Iterator\obj\Debug\Patron de Diseño Iterator.pdb

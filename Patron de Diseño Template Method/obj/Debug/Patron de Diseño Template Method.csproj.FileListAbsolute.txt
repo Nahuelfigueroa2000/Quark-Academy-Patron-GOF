@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\bin\Debug\Patron de Diseño Template Method.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\bin\Debug\Patron de Diseño Template Method.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\bin\Debug\Patron de Diseño Template Method.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\obj\Debug\Patron de Diseño Template Method.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\obj\Debug\Patron de Diseño Template Method.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\obj\Debug\Patron de Diseño Template Method.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Template Method\obj\Debug\Patron de Diseño Template Method.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\bin\Debug\Patron de Diseño Mediator.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\bin\Debug\Patron de Diseño Mediator.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\bin\Debug\Patron de Diseño Mediator.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\obj\Debug\Patron de Diseño Mediator.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\obj\Debug\Patron de Diseño Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\obj\Debug\Patron de Diseño Mediator.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño Mediator\obj\Debug\Patron de Diseño Mediator.pdb

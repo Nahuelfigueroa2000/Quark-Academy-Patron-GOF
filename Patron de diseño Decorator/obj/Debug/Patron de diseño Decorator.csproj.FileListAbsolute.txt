@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\bin\Debug\Patron de diseño Decorator.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\bin\Debug\Patron de diseño Decorator.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\bin\Debug\Patron de diseño Decorator.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\obj\Debug\Patron de diseño Decorator.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\obj\Debug\Patron de diseño Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\obj\Debug\Patron de diseño Decorator.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Decorator\obj\Debug\Patron de diseño Decorator.pdb

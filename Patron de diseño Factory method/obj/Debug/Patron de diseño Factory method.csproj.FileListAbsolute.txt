@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\bin\Debug\Patron de diseño Factory method.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\bin\Debug\Patron de diseño Factory method.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\bin\Debug\Patron de diseño Factory method.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\obj\Debug\Patron de diseño Factory method.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\obj\Debug\Patron de diseño Factory method.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\obj\Debug\Patron de diseño Factory method.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de diseño Factory method\obj\Debug\Patron de diseño Factory method.pdb

@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\bin\Debug\Patron de Diseño State.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\bin\Debug\Patron de Diseño State.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\bin\Debug\Patron de Diseño State.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\obj\Debug\Patron de Diseño State.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\obj\Debug\Patron de Diseño State.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\obj\Debug\Patron de Diseño State.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron de Diseño State\obj\Debug\Patron de Diseño State.pdb

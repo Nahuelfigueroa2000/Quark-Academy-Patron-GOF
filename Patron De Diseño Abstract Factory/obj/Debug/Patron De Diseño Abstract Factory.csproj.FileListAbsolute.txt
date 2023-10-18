@@ -1,0 +1,7 @@
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\bin\Debug\Patron De Diseño Abstract Factory.exe.config
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\bin\Debug\Patron De Diseño Abstract Factory.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\bin\Debug\Patron De Diseño Abstract Factory.pdb
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\obj\Debug\Patron De Diseño Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\obj\Debug\Patron De Diseño Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\obj\Debug\Patron De Diseño Abstract Factory.exe
+C:\Users\Windows 10\Documents\Quark Academy Patron GOF\Patron De Diseño Abstract Factory\obj\Debug\Patron De Diseño Abstract Factory.pdb
