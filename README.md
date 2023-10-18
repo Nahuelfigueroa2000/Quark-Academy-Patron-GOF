@@ -17,9 +17,9 @@ Proveen diferentes formas de crear objetos:
 Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes:
 
 - **Adapter** 🔄: Permite que las interfaces de una clase sean utilizadas como interfaces de otra clase.
-- **Bridge** 🌉: Separa una abstracción de su implementación para que ambas puedan variar de manera independiente.
 - **Composite** 🌲: Compone objetos en estructuras de árbol para representar jerarquías de parte-todo.
 - **Proxy** 🕶️: Proporciona un representante o sustituto de otro objeto para controlar su acceso.
+- **Decorator**: Agrega responsabilidades adicionales a un objeto dinámicamente.
 
 ## Patrones de Comportamiento 🏃
 
